@@ -21,9 +21,11 @@
     <a href="https://www.instagram.com/azeez.fe/">
       <img src="https://img.shields.io/badge/Instagram-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Instagram"/>
     </a>
+  <a href="https://www.youtube.com/channel/UCLHzVpkzBGAYe_pAsQoRZ2w" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://t.me/Mayor_esanbaev" target="_blank"><img src="https://img.shields.io/badge/-TELEGRAM-%230077B5?style=for-the-badge&logo=telegram&logoColor=white"></a>
+  <a href = "https://www.codewars.com/users/azeez12021"><img src="https://img.shields.io/badge/-CODEWARS-%23333?style=for-the-badge&logo=codewars&logoColor=white" target="_blank"></a>
+
   </div>
-</div>
-<div align="center">
 </div>
 
 ---
