@@ -62,10 +62,7 @@ I am a Developer Advocate, Software Engineer, and Community Builder.
 
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
-- [Deploying My First GitHub App with Probot](https://dev.to/github/developing-my-first-github-app-with-probot-3g0p)
-- [Teaching to Empower: How to Support Junior Engineers](https://blackgirlbytes.dev/how-to-support-early-career-developers)
-- [How to Create the Perfect README for Your Open Source Project](https://dev.to/github/how-to-create-the-perfect-readme-for-your-open-source-project-1k69)
-- [Make your first contribution to a GitHub Action!](https://dev.to/github/how-to-edit-a-github-action-3j14)
+- [About Html Css](https://dev.to/muhammadazizesonboyev/about-html-css-2b96)
 <!-- BLOG-POST-LIST:END -->
 
 
