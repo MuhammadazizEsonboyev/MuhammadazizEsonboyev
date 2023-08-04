@@ -30,7 +30,7 @@
 ---
 
 ### 👋🏾 👩🏾‍💻 About Me :
-I am a Developer Advocate, Software Engineer, and Community Builder.
+I am a Developer and Videomaker, Software Engineer, and Community Builder.
 
 - 🌱  I’m currently working on becoming an active open source contributor (and eventually a maintainer)!
 - 💬 Ask me about GitHub, open source, community building, React.js and Html Css.
