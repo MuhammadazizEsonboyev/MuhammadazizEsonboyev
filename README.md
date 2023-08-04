@@ -1,10 +1,3 @@
-
-
-
-
-
-
-
 <div id="header" align="center">
    <h1>
     Hey, I'm @MuhammadazizEsonboyev
